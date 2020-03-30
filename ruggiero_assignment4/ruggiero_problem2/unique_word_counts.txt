@@ -1,0 +1,5 @@
+love					3
+friendship					2
+honesty					2
+understanding					3
+gentleness					2
